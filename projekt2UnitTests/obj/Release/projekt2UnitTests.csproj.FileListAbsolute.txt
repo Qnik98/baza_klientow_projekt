@@ -1,0 +1,17 @@
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\projekt2UnitTests.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\projekt2UnitTests.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\projekt2.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\projekt2.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\projekt2.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Release\projekt2UnitTests.csprojAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Release\projekt2UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Release\projekt2UnitTests.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Release\projekt2UnitTests.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Release\projekt2UnitTests.pdb

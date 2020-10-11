@@ -1,0 +1,42 @@
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csprojAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.dll.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.dll.config
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2UnitTests.pdb
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2.exe
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2.pdb
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\projekt2.exe.config
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.csproj.CopyComplete
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2UnitTests\obj\Debug\projekt2UnitTests.pdb
