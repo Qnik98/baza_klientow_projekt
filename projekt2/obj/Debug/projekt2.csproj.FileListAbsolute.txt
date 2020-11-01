@@ -1,0 +1,135 @@
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\projekt2.exe
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\projekt2.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Google.Protobuf.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\MySql.Data.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Renci.SshNet.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Buffers.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Memory.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Zstandard.Net.dll
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Google.Protobuf.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\MySql.Data.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\Renci.SshNet.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Buffers.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Memory.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\App.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.cache
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.lref
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\MainWindow.baml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.g.resources
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.csproj.CopyComplete
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.exe
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\projekt2.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window1.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window1.baml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window2.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window2.baml
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window3.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\Programowanie\Programowanie projekt\projekt2\projekt2\projekt2\obj\Debug\Window3.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\projekt2.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\projekt2.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Google.Protobuf.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\MySql.Data.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Renci.SshNet.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Buffers.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Memory.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Zstandard.Net.dll
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Google.Protobuf.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\MySql.Data.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\Renci.SshNet.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Buffers.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Memory.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window1.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window2.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window3.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window1.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window2.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\Window3.baml
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.csproj.CopyComplete
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.exe
+C:\Users\Mariusz\Documents\Visual Studio 2019\Projects\Zlecenia\Biblioteka filmow (dodac testy jednostkowe)\projekt\projekt\projekt2\projekt2\obj\Debug\projekt2.pdb
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\projekt2.exe
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\projekt2.pdb
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Google.Protobuf.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\MySql.Data.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Renci.SshNet.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Buffers.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Memory.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Zstandard.Net.dll
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Google.Protobuf.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\MySql.Data.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\Renci.SshNet.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Buffers.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Memory.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window1.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window2.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window3.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\App.g.cs
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2_MarkupCompile.lref
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\MainWindow.baml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window1.baml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window2.baml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\Window3.baml
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.g.resources
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.csproj.CopyComplete
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.exe
+C:\Users\kacpe\OneDrive\Pulpit\AFGAga\projekt2\projekt2\obj\Debug\projekt2.pdb
